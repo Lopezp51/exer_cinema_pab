@@ -1,5 +1,5 @@
+#essa classe vai servir para gerenciar os filmes
 class Filme:
-    @staticmethod
     def lista_filmes():
         return [
             "Sonic 3 - Jeff Fowler",
